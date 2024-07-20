@@ -1,3 +1,16 @@
+/*********************************************************************************
+*  WEB422 – Assignment 5
+*
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: ____Frank Fu_______ Student ID: _126609197___________ Date: _July 19 2024______________
+*
+********************************************************************************/
+
+
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import useSWR from 'swr';
